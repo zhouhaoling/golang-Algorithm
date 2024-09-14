@@ -18,3 +18,5 @@
 
 ## More Learning
 - [排序算法（golang实现)](https://www.bookstack.cn/read/hunterhug-goa.c/algorithm-sort-bubble_sort.md)
+- [墨客](https://dhh.moshu.ink/category/chang-jian-suan-fa-golang.html)
+- [hello算法](https://www.hello-algo.com/chapter_hello_algo/)
